@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a0baad9-9fb2-49ae-aa32-82652a8f7d5e" name="Default Changelist" comment="" />
+    <list default="true" id="7a0baad9-9fb2-49ae-aa32-82652a8f7d5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MELI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_itemPage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageIndex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageItem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageItems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seachItem.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +30,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1e38OD6LnWigOzsRKlHbXHXqaHC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
